@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://data.gov.cz/english/
 common:
+  - type: DomainSecurity
+    url: security/open-government-czech-republic-domain-security.yml
   - type: Website
     url: https://data.gov.cz/english/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://data.gov.cz/feed.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
