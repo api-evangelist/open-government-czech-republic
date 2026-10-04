@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Czech Republic
     description: "Czech Republic Government Open Data"
     humanURL: https://data.gov.cz/english/
-    baseURL: https://data.gov.cz/english/
     tags:
       - Government
     properties:
